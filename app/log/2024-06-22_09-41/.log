@@ -1,0 +1,2 @@
+bilibili_rank: 解析JSON失败bilibili_rank: JSON 解析失败: json: cannot unmarshal number into Go struct field .Hot of type string
+[GIN] 2024-06-22 09:41:24 |%!s(int=200)| 278074000 | 127.0.0.1 | GET | /bilibilirank

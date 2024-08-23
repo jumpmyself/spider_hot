@@ -1,0 +1,2 @@
+bilibili_rank: 将新数据写入数据库失败Error 1054 (42S22): Unknown column 'hot' in 'field list'
+[GIN] 2024-06-22 09:03:24 |%!s(int=200)| 454049600 | 127.0.0.1 | GET | /bilibilirank
